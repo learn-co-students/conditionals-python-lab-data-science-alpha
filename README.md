@@ -161,4 +161,4 @@ open_restaurants(restaurants)[0]['name'] # 'Fork & Fig'
 
 ### Summary
 
-Great!  Through this lab we saw how to pass arguments to functions, multiple arguments to functions, and how to implement functinons with default arguments.
+Great!  Through this lab we saw how to pass arguments to functions, multiple arguments to functions, and how to implement functions with default arguments.
